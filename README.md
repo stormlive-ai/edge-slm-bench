@@ -2,9 +2,7 @@
 
 **Reproducible Evaluation Harness & Synthetic Distillation Pipeline for Specialized On-Device Small Language Models (SLMs)**
 
-[![License: MIT](https://shields.io)](https://opensource.org)
-[![Status: Active Research](https://shields.io)]()
-[![Focus: On-Device AI](https://shields.io)]()
+`License: MIT` &nbsp;·&nbsp; `Status: Active Research (2026–2027)` &nbsp;·&nbsp; `Focus: Mobile & Edge SLMs (<3B)`
 
 ## Overview
 
